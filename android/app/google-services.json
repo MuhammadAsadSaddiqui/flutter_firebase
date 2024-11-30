@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "7751709277",
+    "project_id": "flutterauthentication-72ab2",
+    "storage_bucket": "flutterauthentication-72ab2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7751709277:android:ece56548cde4dac66fd3b4",
+        "android_client_info": {
+          "package_name": "com.example.new_flutter_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQeyiFmb1f9imubBA71RDdpEf9C7oFubY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
